@@ -1,1 +1,1 @@
-Hi Git Bash
+Git Bash
